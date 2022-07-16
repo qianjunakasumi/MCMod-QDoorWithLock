@@ -1,0 +1,11 @@
+{
+  "_fv": 28,
+  "_type": "tab",
+  "definition": {
+    "name": "Q Door",
+    "icon": {
+      "value": "Blocks.IRON_DOOR"
+    },
+    "showSearch": false
+  }
+}

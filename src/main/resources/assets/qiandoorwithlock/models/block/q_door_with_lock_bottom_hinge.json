@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom_rh",
+  "textures": {
+    "bottom": "qiandoorwithlock:blocks/qdoorwithlock_main",
+    "top": "qiandoorwithlock:blocks/qdoorwithlock_top"
+  }
+}
